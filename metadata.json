@@ -1,0 +1,5 @@
+{
+  "name": "Shield Shooter Arena",
+  "description": "A multiplayer top-down shooter where players battle with guns and shields. Use cover, manage your shield, and survive.",
+  "requestFramePermissions": []
+}
